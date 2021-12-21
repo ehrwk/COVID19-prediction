@@ -15,3 +15,7 @@
 - 코로나바이러스19로 인한 확진자, 사망자, 데이터셋은 매일 업데이트 되며, 출처는 다음과 같습니다. 
 
 - [Number of Confirmed Cases (Daily Updated)](https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv)
+
+## 참고자료
+- https://dacon.io/codeshare/2570
+- https://github.com/kairess/corona-virus-prediction/blob/master/corona19_confirmed_prediction.ipynb
