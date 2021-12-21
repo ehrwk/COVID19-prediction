@@ -6,6 +6,7 @@
 ## ARIMA 모델
 - 확진자는 최근 3달을 가져와 표시해줍니다.
 - p value 0.05 기준으로 판단하여 모델의 MA(1)은 유효하다고 판단, 최근 14일을 기준으로 예측모델을 만들었습니다.
+- <img src = "https://github.com/ehrwk/COVID19-prediction/blob/main/Arima.png" width = "450px"></img>
 
 ## Prophet 모델
 - 확진자는 2020년 1월 22일부터 최근일자까지 가져와 표시합니다.
