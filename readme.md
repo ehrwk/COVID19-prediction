@@ -11,6 +11,7 @@
 ## Prophet 모델
 - 확진자는 2020년 1월 22일부터 최근일자까지 가져와 표시합니다.
 - 데이터의 크기가 2년을 조금 안되므로, 일주일과 일일에 대하여 예측을 반영하였습니다.
+- <img src = "https://github.com/ehrwk/COVID19-prediction/blob/main/Prophet.png" width = "450px"></img>
 
 ## Dataset
 - 코로나바이러스19로 인한 확진자, 사망자, 데이터셋은 매일 업데이트 되며, 출처는 다음과 같습니다. 
